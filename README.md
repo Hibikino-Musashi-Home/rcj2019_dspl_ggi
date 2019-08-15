@@ -14,3 +14,4 @@ Training Phaseと同様, Web Speech APIを用いて, 音声コマンドを文字
 目的オブジェクトを判断した後, ロボットは判断したオブジェクトが本当に目的のオブジェクトであるかをロボットのヘッドディスプレイを利用して視覚的に確認作業を行う.
 ## 詳細
 本手順は, 下記PDFファイルにより詳細をまとめた.
+[https://github.com/hibikino-musashi-athome/rcj2019_dspl_ggi/blob/master/rcj19_dspl_ggi.pdf](https://github.com/hibikino-musashi-athome/rcj2019_dspl_ggi/blob/master/rcj19_dspl_ggi.pdf)
